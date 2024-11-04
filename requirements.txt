@@ -1,0 +1,5 @@
+aiogram
+openai
+apscheduler==3.10.4
+pyTelegramBotAPI
+pydub
